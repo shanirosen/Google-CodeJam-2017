@@ -1,0 +1,6 @@
+c:\users\yofi\documents\visual studio 2015\Projects\CodeJam B Large\CodeJam B Large\bin\Debug\CodeJam B Large.exe.config
+c:\users\yofi\documents\visual studio 2015\Projects\CodeJam B Large\CodeJam B Large\bin\Debug\CodeJam B Large.exe
+c:\users\yofi\documents\visual studio 2015\Projects\CodeJam B Large\CodeJam B Large\bin\Debug\CodeJam B Large.pdb
+c:\users\yofi\documents\visual studio 2015\Projects\CodeJam B Large\CodeJam B Large\obj\Debug\CodeJam B Large.csprojResolveAssemblyReference.cache
+c:\users\yofi\documents\visual studio 2015\Projects\CodeJam B Large\CodeJam B Large\obj\Debug\CodeJam B Large.exe
+c:\users\yofi\documents\visual studio 2015\Projects\CodeJam B Large\CodeJam B Large\obj\Debug\CodeJam B Large.pdb
